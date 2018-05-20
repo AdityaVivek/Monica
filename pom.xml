@@ -5,7 +5,7 @@
     <groupId>org.aditya</groupId>
     <artifactId>Monica</artifactId>
     <version>1.0</version>
-    <packaging>bundle</packaging>
+    <packaging>jar</packaging>
 
     <name>Monica</name>
     <description>State Manager for your Application</description>
